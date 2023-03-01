@@ -193,8 +193,8 @@ int main() {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/exp`][@stdlib/math/base/special/exp]</span><span class="delimiter">: </span><span class="description">natural exponential function.</span>
--   <span class="package-name">[`@stdlib/math/base/special/expm1rel`][@stdlib/math/base/special/expm1rel]</span><span class="delimiter">: </span><span class="description">relative error exponential.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/exp`][@stdlib/math/base/special/exp]</span><span class="delimiter">: </span><span class="description">natural exponential function.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/expm1rel`][@stdlib/math/base/special/expm1rel]</span><span class="delimiter">: </span><span class="description">relative error exponential.</span>
 
 </section>
 
