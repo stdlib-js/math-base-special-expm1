@@ -36,13 +36,13 @@ var expm1 = require( './../../dist' );
 
 // FIXTURES //
 
-var cppMediumPositive = require( './../..xtures/cpp/medium_positive.json' );
-var cppMediumNegative = require( './../..xtures/cpp/medium_negative.json' );
-var mediumNegative = require( './../..xtures/julia/medium_negative.json' );
-var mediumPositive = require( './../..xtures/julia/medium_positive.json' );
-var smallNegative = require( './../..xtures/julia/small_negative.json' );
-var smallPositive = require( './../..xtures/julia/small_positive.json' );
-var tiny = require( './../..xtures/julia/tiny.json' );
+var cppMediumPositive = require( './../fixtures/cpp/medium_positive.json' );
+var cppMediumNegative = require( './../fixtures/cpp/medium_negative.json' );
+var mediumNegative = require( './../fixtures/julia/medium_negative.json' );
+var mediumPositive = require( './../fixtures/julia/medium_positive.json' );
+var smallNegative = require( './../fixtures/julia/small_negative.json' );
+var smallPositive = require( './../fixtures/julia/small_positive.json' );
+var tiny = require( './../fixtures/julia/tiny.json' );
 
 
 // TESTS //
