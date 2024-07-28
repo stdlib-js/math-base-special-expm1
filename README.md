@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@esm/index.mjs';
+import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@v0.2.3-esm/index.mjs';
 ```
 
 #### expm1( x )
@@ -80,7 +80,7 @@ v = expm1( NaN );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@esm/index.mjs';
+import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@v0.2.3-esm/index.mjs';
 
 var x;
 var i;
