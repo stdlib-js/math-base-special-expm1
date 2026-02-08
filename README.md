@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@deno/mod.js';
+import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@v0.2.4-deno/mod.js';
 ```
 
 #### expm1( x )
@@ -76,7 +76,7 @@ v = expm1( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@deno/mod.js';
+import expm1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-expm1@v0.2.4-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
