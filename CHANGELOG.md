@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-10)
+## Unreleased (2026-11-15)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f1f573c`](https://github.com/stdlib-js/stdlib/commit/f1f573c8223b7d3ba6eb772c74ce819996a4dc32) - **test:** fix C++ fixture runner for `math/base/special/expm1` [(#16628)](https://github.com/stdlib-js/stdlib/pull/16628) _(by Mara Averick)_
 -   [`2b568bd`](https://github.com/stdlib-js/stdlib/commit/2b568bd727177f95feae9cd3f940084030631b50) - **build:** compile C++ Boost benchmarks with C++14 [(#16556)](https://github.com/stdlib-js/stdlib/pull/16556) _(by Mara Averick)_
 -   [`4ff1612`](https://github.com/stdlib-js/stdlib/commit/4ff16126926ce482b471012528ec526d39cdd1d2) - **build:** upgrade Boost & compile C++ test fixture runners w C++14 [(#16545)](https://github.com/stdlib-js/stdlib/pull/16545) _(by Mara Averick)_
 -   [`c568729`](https://github.com/stdlib-js/stdlib/commit/c568729af2a4908e564647f15cadccc8ad62f59b) - **docs:** update Markdown equation elements _(by stdlib-bot)_
